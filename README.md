@@ -32,7 +32,7 @@ To acces this project, you need to clone it using these steps;
 4. Bootstrap
 
 ### Live Site
-View [live](https://felixmkn.github.io/My-photography-website/)
+View [live](https://felixmkn.github.io/Felix_portfolio/
 
 
 ### Licence
